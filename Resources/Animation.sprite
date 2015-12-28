@@ -1,0 +1,62 @@
+Seconds Per Frame 42
+
+IMAGES 12
+ID 0
+FILE Textures/CircleButton.tga
+ID 1
+FILE Textures/CircleButtonPressed.tga
+ID 2
+FILE Textures/TennisBall.tga
+ID 3
+FILE Textures/SoccerBall.tga
+ID 4
+FILE Textures/Button.tga
+ID 5
+FILE Textures/ButtonPressed.tga
+ID 6
+FILE Textures/AvailableMapButton.tga
+ID 7
+FILE Textures/AvailableMapButtonPressed.tga
+ID 8
+FILE Textures/ButtonBack.tga
+ID 9
+FILE Textures/ButtonBackPressed.tga
+ID 10
+FILE Textures/BlankTexture.tga
+ID 11
+FILE Textures/GunShotEffect.tga
+
+ANIMATIONS 6
+ID 0
+NAME Press_Circle_Button
+FRAMES 2
+0
+1
+ID 1
+NAME Change_ball
+FRAMES 2
+2
+3
+ID 2
+NAME Press_Button
+FRAMES 2
+4
+5
+ID 3
+NAME Pick_available_map
+FRAMES 2
+6
+7
+ID 4
+NAME Press_Button_Back
+FRAMES 2
+8
+9
+ID 5
+NAME Shotting
+FRAMES 3
+10
+11
+10
+
+

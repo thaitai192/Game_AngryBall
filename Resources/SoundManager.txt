@@ -1,0 +1,30 @@
+# MUSICS 4
+ID 0
+Name MUSIC_BACKGROUND
+FILE Sound/backgroundMusic.mp3
+ID 1
+Name Music_in_game
+FILE Sound/ingameMusic.mp3
+ID 2
+Name Music_show_score
+FILE Sound/showScoreMusic.wav
+ID 3
+Name game_over
+FILE Sound/gameOver.mp3
+
+# SOUNDS 5
+ID 0
+Name cannon_shooting
+FILE Sound/explosion.wav
+ID 1
+Name press_button
+FILE Sound/pressButton.wav
+ID 2
+Name get_some_point
+FILE Sound/getScoreMusic.mp3
+ID 3
+Name hit_the_star
+FILE Sound/hitTheStar.wav
+ID 4
+Name pick_map
+FILE Sound/pickMap.wav

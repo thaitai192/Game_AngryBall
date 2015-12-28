@@ -1,0 +1,91 @@
+MAP_ID 1
+
+OBJECTS 2
+
+OBJECT_ID 37
+NAME BackgroundSky
+
+OBJECT_ID 10
+NAME Arrow
+
+SPRITES 10
+
+SPRITE_ID 0
+NAME ball
+OBJECT_ID 1
+POSITION -95.0,-26.25, 0.0
+ROTATION 0.0, 0.0, 0.0
+SCALE 0.02, 0.02, 1.0
+is_sensor false
+
+SPRITE_ID 1
+NAME ground
+OBJECT_ID 2
+POSITION 0.0,-56.25, 0.0
+ROTATION 0.0, 0.0, 0.0
+SCALE 1.0, 0.00, 1.0
+is_sensor false
+
+SPRITE_ID 2
+NAME leftside
+OBJECT_ID 2
+POSITION -103.0,0.0, 0.0
+ROTATION 0.0, 0.0, 1.57
+SCALE 1.0, 0.02, 1.0
+is_sensor false
+
+SPRITE_ID 3
+NAME rightside
+OBJECT_ID 2
+POSITION 103.0,0.0, 0.0
+ROTATION 0.0, 0.0, 1.57
+SCALE 1.0, 0.02, 1.0
+is_sensor false
+
+SPRITE_ID 4
+NAME besung
+OBJECT_ID 3
+POSITION -100.0,-56.25, 0.0
+ROTATION 0.0, 0.0, 0.0
+SCALE 0.35, 0.25, 1.0
+is_sensor false
+
+SPRITE_ID 5
+NAME bucket
+OBJECT_ID 4
+POSITION 12.0, 30.0, 0.0
+ROTATION 0.0, 0.0, 0.0
+SCALE 0.06, 0.05, 1.0
+is_sensor false
+
+SPRITE_ID 6
+NAME cannon
+OBJECT_ID 5
+POSITION -82.0, -18.25, 0.0
+ROTATION 0.0, 0.0, 0.0
+SCALE 0.18, 0.045, 1.0
+is_sensor false
+
+SPRITE_ID 7
+NAME force_bar
+OBJECT_ID 7
+POSITION -97.0, 10.0, 0.0
+ROTATION 0.0, 0.0, 1.57
+SCALE 0.15, 0.012, 1.0
+is_sensor true
+
+SPRITE_ID 8
+NAME wheel
+OBJECT_ID 8
+POSITION -82.0,-18.25, 0.0
+ROTATION 0.0, 0.0, 0.0
+SCALE 0.12, 0.12, 1.0
+is_sensor false
+
+SPRITE_ID 9
+NAME blank_texture
+OBJECT_ID 29
+POSITION 0.0, 0.0, 0.0
+ROTATION 0.0, 0.0, 0.0
+SCALE 0.045, 0.045, 1.0
+is_sensor true

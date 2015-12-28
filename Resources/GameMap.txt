@@ -1,0 +1,33 @@
+MAPS 8
+
+MAP 0
+SOURCE "map/Map1.txt"
+LEVEL "map/Map1_1.txt"
+
+MAP 1
+SOURCE "map/Map2.txt"
+LEVEL "map/Map1_2.txt"
+
+MAP 2
+SOURCE "map/Map3.txt"
+LEVEL "map/Map1_3.txt"
+
+MAP 3
+SOURCE "map/Map4.txt"
+LEVEL "map/Map1_4.txt"
+
+MAP 4
+SOURCE "map/Map5.txt"
+LEVEL "map/Map1_5.txt"
+
+MAP 5
+SOURCE "map/Map6.txt"
+LEVEL "map/Map1_6.txt"
+
+MAP 6
+SOURCE "map/Map7.txt"
+LEVEL "map/Map1_7.txt"
+
+MAP 7
+SOURCE "map/Map8.txt"
+LEVEL "map/Map1_8.txt"
